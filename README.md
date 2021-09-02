@@ -9,3 +9,9 @@ Also, you have to download Pyfirmata library on your Arduino IDE.
 You can do this by going to tools --> library manager and type Firmata
 
 All other instructions are given in the talk_to_my_hand.py file given in this code
+
+
+
+https://user-images.githubusercontent.com/50763982/131771078-4f267297-60d5-4322-9788-5f45763911b3.mp4
+
+
